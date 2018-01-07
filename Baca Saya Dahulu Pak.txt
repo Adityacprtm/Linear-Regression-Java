@@ -1,0 +1,5 @@
+program ini menggunakan java dan excel sebagai datanya
+untuk membaca data excel diperlukan file : jxl
+
+TERLEBIH DAHULU
+add jxl.jar pada library program
